@@ -6,14 +6,12 @@ title: blank # the website title (if blank, full name will be used instead)
 first_name: Milena
 middle_name: 
 last_name: Weiershausen
-contact_note: >
-  Shoot me an email :)
+email: annemilena.weiershausen@mathematik.uni-goettingen.de
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   # A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
-  Photos from <a href="https://unsplash.com" target="_blank">Unsplash</a>.
 keywords: # add your own keywords or leave empty
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: 🧩 # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
@@ -22,7 +20,6 @@ url: https://milenaw.github.io # the base hostname & protocol for your site
 baseurl: # the subpath of your site, e.g. /blog/. Leave blank for root
 last_updated: true # set to true if you want to display last updated in the footer
 impressum_path: # set to path to include impressum link in the footer, use the same path as permalink in a page, helps to conform with EU GDPR
-back_to_top: false # set to false to disable the back to top button
 
 # -----------------------------------------------------------------------------
 # Theme
@@ -42,16 +39,14 @@ repo_trophies:
 # will use title and url fields
 # Take a look to https://github.com/jekyll/jekyll-feed for more customization
 
+rss_icon: false
+
 # -----------------------------------------------------------------------------
 # Layout
 # -----------------------------------------------------------------------------
 
 navbar_fixed: true
 footer_fixed: true
-search_enabled: false
-socials_in_search: false
-posts_in_search: false
-bib_search: false
 
 # Dimensions
 max_width: 930px
@@ -75,31 +70,10 @@ og_image: # The site-wide (default for all links) Open Graph preview image
 # and follow the instructions for Google Sites. You will need to create a Google Analytics property and copy the Google tag ID.
 google_analytics: # your Google Analytics measurement ID (format: G-XXXXXXXXXX)
 cronitor_analytics: # cronitor RUM analytics site ID (format: XXXXXXXXX)
-pirsch_analytics: # your Pirsch analytics site ID (length 32 characters)
-openpanel_analytics: # your Openpanel analytics client ID (format: XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX)
 
 # For Google Search Console, see https://support.google.com/webmasters/answer/9008080?hl=en#meta_tag_verification&zippy=%2Chtml-tag
 google_site_verification: # your google-site-verification ID (Google Search Console)
 bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
-
-# -----------------------------------------------------------------------------
-# Newsletter
-# -----------------------------------------------------------------------------
-
-newsletter:
-  enabled: false
-  endpoint: # your loops endpoint (e.g., https://app.loops.so/api/newsletter-form/YOUR-ENDPOINT)
-  # https://loops.so/docs/forms/custom-form
-
-# -----------------------------------------------------------------------------
-# Collections
-# -----------------------------------------------------------------------------
-
-#collections:
-#  books:
-#    output: true
-#  projects:
-#    output: true
 
 # -----------------------------------------------------------------------------
 # Jekyll settings
@@ -191,23 +165,12 @@ terser:
     drop_console: true
 
 # -----------------------------------------------------------------------------
-# Jekyll Archives
-# -----------------------------------------------------------------------------
-
-jekyll-archives:
-  books:
-    enabled: [year, tags, categories] # enables year, tag and category archives (remove if you need to disable one of them).
-
-display_tags: ["formatting", "images", "links", "math", "code", "blockquotes"] # these tags will be displayed on the front page of your blog
-display_categories: ["external-services"] # these categories will be displayed on the front page of your blog
-
-# -----------------------------------------------------------------------------
 # Jekyll Scholar
 # -----------------------------------------------------------------------------
 
 scholar:
-  last_name: [Einstein]
-  first_name: [Albert, A.]
+  last_name: [Weiershausen]
+  first_name: [Milena]
 
   style: apa
   locale: en
