@@ -7,12 +7,12 @@ nav: true
 nav_order: 5
 ---
 
-# Feel free to just shoot me an email:
+### Feel free to just shoot me an email:
 
 annemilena[dot]weiershausen[at]mathematik[dot]uni-goettingen[dot]de
 
 
-# If you want to meet me in person, you can find me here:
+### If you want to meet me in person, you can find me here:
 
 Room L2.110
 
