@@ -6,4 +6,6 @@ nav: true
 nav_order: 3
 ---
 
-### Student assistant
+Here is an overview of my teaching experience so far.
+
+#### Student assistant
