@@ -18,4 +18,8 @@ social: false # includes social icons at the bottom of the page
 
 ---
 
-Welcome to my page! I'm a first year PhD student in the group of [Prof. Chenchang Zhu](https://www.uni-math.gwdg.de/zhu/) at [Göttingen University](https://www.uni-goettingen.de/en/20693.html). I am a member of the [RTG 2491](https://www.uni-goettingen.de/en/607635.html) on Fourier Analysis and Spectral Theory. 
+Welcome to my page! 
+
+I'm a first year PhD student in the group of [Prof. Chenchang Zhu](https://www.uni-math.gwdg.de/zhu/) at [Göttingen University](https://www.uni-goettingen.de/en/20693.html). I am a member of the [RTG 2491](https://www.uni-goettingen.de/en/607635.html) on Fourier Analysis and Spectral Theory. 
+
+This page is currently still under construction.
