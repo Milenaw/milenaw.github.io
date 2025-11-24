@@ -7,6 +7,16 @@ nav: true
 nav_order: 2
 ---
 
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-GJDBQ9MVCB"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-GJDBQ9MVCB');
+</script>
+
 I am mainly interested in Higher Structures in Differential Geometry, in particular Lie n-groupoids. Previously, I have been working on shifted symplectic Lie n-groupoids and currently, I am working on the String Lie 2-group.
 
 
