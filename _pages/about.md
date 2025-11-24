@@ -4,6 +4,16 @@ title: About
 permalink: /
 subtitle: <a href='https://www.uni-goettingen.de/en/607635.html'>RTG 2491 at University of Göttingen</a>.
 
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-GJDBQ9MVCB"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-GJDBQ9MVCB');
+</script>
+
 profile:
   align: right
   image: prof_pic.jpg
