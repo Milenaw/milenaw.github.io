@@ -19,7 +19,12 @@ nav_order: 4
 
 #### Upcoming events
 
-- tba
+- Co-organizer of **C{*}-Algebras, representations and dynamics**. Autumn School on C{*}-Algebras. Göttingen, October 5-9, 2026.
+- Co-organizer of **Higher Categories for the Working Mathematician**. Summer School on Higher Category Theory. Göttingen, July 27-31, 2026.
+- Short Presentation at **[Higher Differential Geometry Conference](https://www.wiko-greifswald.de/en/registrations/higher-differential-geometry/)**. Higher Differential Geometry Conference. Greifswald, May 4-8, 2026.
+- Co-organizer of the **Göttingen University Girl's Day**. Göttingen, April 23, 2026.
+- tbc: Participant at **[Higher Lower Workshop XX]([https://www.math.ru.nl/~sagave/higher-structures-XVIII/](https://utrechtgeometrycentre.nl/higher-geometric-structures-along-the-lower-rhine/))**. Higher Geometric Structures along the Lower Rhine XX. Utrecht,April 16-17, 2026.
+- Co-organizer of **Mathe, Mädchen, Möglichkeiten** Math Workshop for Girls. Göttingen, April 8-12, 2026.
 
 #### Invited and colloquium talks
 
@@ -39,10 +44,11 @@ Georg August University Göttingen, June 23, 2021.
 
 #### Conferences and workshops
 
-- **[Exploring new arrows in the BCGW-groupoid II](https://people.mpim-bonn.mpg.de/miyamoto/bgw-retreat/2025/)**. Higher Structures PhD Retreat. Burbach, Mar 7-10, 2025.
+- **[BCGU-W Research Retreat]([https://people.mpim-bonn.mpg.de/miyamoto/bgw-retreat/2025/](https://www.mathematik.uni-wuerzburg.de/aktuelles/winter-summerschools/bcgu-w-research-retreat/))**. Higher Structures PhD Retreat. Würzburg, December 5-8, 2025.
+- **[Exploring new arrows in the BCGW-groupoid II](https://people.mpim-bonn.mpg.de/miyamoto/bgw-retreat/2025/)**. Higher Structures PhD Retreat. Burbach, March 7-10, 2025.
 - **[Higher Lower Workshop XVIII](https://www.math.ru.nl/~sagave/higher-structures-XVIII/)**. Higher Geometric Structures along the Lower Rhine XVIII. Nijmegen,
 January 23-24, 2025.
-- **[Exploring new arrows in the BGW-groupoid](https://people.mpim-bonn.mpg.de/miyamoto/bgw-retreat/2024/)**. Higher Structures PhD Retreat. Bielefeld, Oct 25-28, 2024.
+- **[Exploring new arrows in the BGW-groupoid](https://people.mpim-bonn.mpg.de/miyamoto/bgw-retreat/2024/)**. Higher Structures PhD Retreat. Bielefeld, October 25-28, 2024.
 - **[2nd WiMGo Conference](https://www.uni-goettingen.de/de/688539.html)**. Developments in Modern Mathematics. Göttingen, September 2-5, 2024.
 - **[GROW conference](https://www.mathematics.uni-bonn.de/hcm/events/grow/grow_2023)**. Graduate Research Opportunities for Women. Bonn, March 30-31, 2023.
 
