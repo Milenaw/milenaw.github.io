@@ -17,7 +17,7 @@ nav_order: 2
   gtag('config', 'G-GJDBQ9MVCB');
 </script>
 
-I am mainly interested in Higher Structures in Differential Geometry, in particular Lie n-groupoids. Previously, I have been working on shifted symplectic Lie n-groupoids and currently, I am working on the String Lie 2-group.
+I am mainly interested in Higher Structures in Differential Geometry, in particular Lie n-groupoids. In my master thesis, I worked on shifted symplectic Lie n-groupoids and Morita equivalences between them. Currently, I am working on representations of Lie 2-groups with the main goal of understanding representations of the String Lie 2-group.
 
 
 
