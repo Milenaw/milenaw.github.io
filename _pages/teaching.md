@@ -27,3 +27,7 @@ Here is an overview of my teaching experience so far.
 - Student Assistant, AGLA 2 (SS 2022) in Göttingen.
 - Student Assistant, AGLA 1 (WS 2021/22) in Göttingen.
 - Student Assistant, AGLA 1 (WS 2019/20) in Göttingen.
+
+#### Miscellaneous
+
+- WS 2025/25: Mentor for non-male students (focus on Differential Geometry)
