@@ -30,4 +30,4 @@ Here is an overview of my teaching experience so far.
 
 #### Miscellaneous
 
-- WS 2025/25: Mentor for non-male students (focus on Differential Geometry)
+- WS 2025/25: Mentor for non-male students (focus on Differential Geometry).
