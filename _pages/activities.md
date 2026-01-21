@@ -55,6 +55,6 @@ January 23-24, 2025.
 #### Math-related volunteering and outreach events
 
 - I am volunteering at **[MO-Ni e.V.](https://www.mo-ni.de/organisation/team)** (”Mathe-Olympiade in Niedersachsen”) to help organize the Mathematical Olympiad in Lower Saxony.
-- In 2022 and 2024, co-organized **["Mädchenseminare"](https://www.mo-ni.de/klasse-5-13/maedchenseminar)** (training seminars specifically for female high-school students) through MO-Ni with funding from the [Litfin Stiftung](https://www.litfin-stiftung.de/foerderung/).
+- In 2022 and 2024, I co-organized **["Mädchenseminare"](https://www.mo-ni.de/klasse-5-13/maedchenseminar)** (training seminars specifically for female high-school students) through MO-Ni with funding from the [Litfin Stiftung](https://www.litfin-stiftung.de/foerderung/).
 - In 2023 and 2024, I taught courses in **training seminars** preparing the Bremen team for the
 national round of the Mathematical Olympiad.
