@@ -20,7 +20,9 @@ nav_order: 4
 #### Upcoming events
 
 - Co-organizer of **C-Star-Algebras, representations and dynamics**. Autumn School on C-Star-Algebras. Göttingen, October 5-9, 2026.
+- tbc: Participant at **[Poisson 2026](https://wis.kuleuven.be/events/2026_poisson/conference_poisson2026)**. Poisson 2026 Summer School and Conference. Antwerp and Leuven, August 3-14, 2026.
 - Co-organizer of **Higher Categories for the Working Mathematician**. Summer School on Higher Category Theory. Göttingen, July 27-31, 2026.
+- tbc: Participant at **[ENFFT](https://sites.google.com/uniroma1.it/enfft/enfft)**. Elliptic Objects, von Neumann Algebras, and Functorial Field Theory Summer School and Conference. Lausanne, July 6-17, 2026.
 - Short Presentation at **[Higher Differential Geometry Conference](https://www.wiko-greifswald.de/en/registrations/higher-differential-geometry/)**. Higher Differential Geometry Conference. Greifswald, May 4-8, 2026.
 - tbc: Co-organizer of the **[Göttingen University Girl's Day](https://www.uni-goettingen.de/de/507545.html)**. Göttingen, April 23, 2026.
 - tbc: Participant at **[Higher Lower Workshop XX](https://utrechtgeometrycentre.nl/higher-geometric-structures-along-the-lower-rhine/)**. Higher Geometric Structures along the Lower Rhine XX. Utrecht,April 16-17, 2026.
