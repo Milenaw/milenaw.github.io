@@ -18,6 +18,10 @@ nav_order: 3
 
 Here is an overview of my teaching experience so far.
 
+#### Assistant
+
+- SS 2026: Assistant Seminar "Solving mathematical problems" (IMC training seminar)
+
 #### Student assistant
 
 - Student Assistant Einführung in die Logik (SS 2024) in Göttingen.
