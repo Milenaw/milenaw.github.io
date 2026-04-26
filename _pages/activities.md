@@ -19,6 +19,7 @@ nav_order: 4
 
 #### Upcoming events
 
+- Co-organizer (as part of MO-Ni team) of 2026 Mädchenseminar. Math Olympiad training seminar for girls in grade 7 and 8. Göttingen, October 29 - November 1, 2026.
 - Co-organizer of **[C-Star-Algebras: Structure, Dynamics, and Applications](https://events.gwdg.de/event/1392/)**. Autumn School on C-Star-Algebras. Göttingen, October 5-9, 2026.
 - Participant at **[Poisson 2026](https://wis.kuleuven.be/events/2026_poisson/conference_poisson2026)**. Poisson 2026 Summer School and Conference. Antwerp and Leuven, August 3-14, 2026.
 - Co-organizer of **[Higher Categories for the Working Mathematician](https://events.gwdg.de/event/1365/)**. Summer School on Higher Category Theory. Göttingen, July 27-31, 2026.
