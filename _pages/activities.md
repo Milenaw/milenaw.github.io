@@ -19,19 +19,32 @@ nav_order: 4
 
 #### Upcoming events
 
+- Tbc: Co-organizer of **[Mathe, Mädels, Möglichkeiten](https://events.gwdg.de/event/1400/)**. Math Workshop for Girls. Göttingen, March 2027.
+- Tbc: Invited talk at the Mathematics and Theoretical Physics Seminar. University of Hertfordshire, November 2026.
 - Co-organizer (as part of MO-Ni team) of 2026 Mädchenseminar. Math Olympiad training seminar for girls in grade 7 and 8. Göttingen, October 29 - November 1, 2026.
 - Co-organizer of **[C-Star-Algebras: Structure, Dynamics, and Applications](https://events.gwdg.de/event/1392/)**. Autumn School on C-Star-Algebras. Göttingen, October 5-9, 2026.
-- Poster at **[Poisson 2026](https://wis.kuleuven.be/events/2026_poisson/conference_poisson2026)**. Poisson 2026 Summer School and Conference. Antwerp and Leuven, August 3-14, 2026.
-- Co-organizer of **[Higher Categories for the Working Mathematician](https://events.gwdg.de/event/1365/)**. Summer School on Higher Category Theory. Göttingen, July 27-31, 2026.
-- Short Presentation at **[ENFFT](https://sites.google.com/uniroma1.it/enfft/enfft)**. Elliptic Objects, von Neumann Algebras, and Functorial Field Theory Summer School and Conference. Lausanne, July 6-17, 2026.
 
 #### Invited and colloquium talks
 
-- [Shifted symplectic structures on Lie n-groupoids](https://www.mathematik.uni-wuerzburg.de/fileadmin/10041030/2025/dqg_2025_02_07.pdf). Talk on my master thesis in the context of an
-Oberseminar on Deformation Quantization and Geometry, invited by Professor Madeleine Jotz. University of Würzburg, February 07, 2025.
+- [Shifted symplectic structures on Lie n-groupoids](https://www.mathematik.uni-wuerzburg.de/fileadmin/10041030/2025/dqg_2025_02_07.pdf). Talk on my master thesis in the context of an Oberseminar on Deformation Quantization and Geometry, invited by Professor Madeleine Jotz. University of Würzburg, February 07, 2025.
 - [Shifted Symplectic Lie n-Groupoids](https://people.mpim-bonn.mpg.de/miyamoto/bgw-retreat/2024/agenda/MA_Talk_BGW.pdf). Talk on my master thesis in the context of a Higher Structures PhD retreat. Bielefeld, October 27, 2024.
 - Embedding Tensors. Talk on my bachelor thesis in the context of an Oberseminar on Higher Structures.
 Georg August University Göttingen, June 23, 2021.
+
+#### Conferences and workshops
+
+- Poster at **[Poisson 2026](https://wis.kuleuven.be/events/2026_poisson/conference_poisson2026)**. Poisson 2026 Summer School and Conference. Antwerp and Leuven, August 3-14, 2026.
+- Co-organizer of **[Higher Categories for the Working Mathematician](https://events.gwdg.de/event/1365/)**. Summer School on Higher Category Theory. Göttingen, July 27-31, 2026.
+- Short Presentation at **[ENFFT](https://sites.google.com/uniroma1.it/enfft/enfft)**. Elliptic Objects, von Neumann Algebras, and Functorial Field Theory Summer School and Conference. Lausanne, July 6-17, 2026.
+- Short Presentation at **[Higher Differential Geometry Conference](https://www.wiko-greifswald.de/en/registrations/higher-differential-geometry/)**. Higher Differential Geometry Conference. Greifswald, May 4-8, 2026.
+- **[BCGU-W Research Retreat](https://www.mathematik.uni-wuerzburg.de/aktuelles/winter-summerschools/bcgu-w-research-retreat/)**. Higher Structures PhD Retreat. Würzburg, December 5-8, 2025.
+- Participant at Summer School **[Loop groups and Kac-Moody groups](https://sites.google.com/view/loop-and-kac-moody-groups)**. Willebadessen, September 21-26, 2025.
+- **[Exploring new arrows in the BCGW-groupoid II](https://people.mpim-bonn.mpg.de/miyamoto/bgw-retreat/2025/)**. Higher Structures PhD Retreat. Burbach, March 7-10, 2025.
+- **[Higher Lower Workshop XVIII](https://www.math.ru.nl/~sagave/higher-structures-XVIII/)**. Higher Geometric Structures along the Lower Rhine XVIII. Nijmegen,
+January 23-24, 2025.
+- **[Exploring new arrows in the BGW-groupoid](https://people.mpim-bonn.mpg.de/miyamoto/bgw-retreat/2024/)**. Higher Structures PhD Retreat. Bielefeld, October 25-28, 2024.
+- **[2nd WiMGo Conference](https://www.uni-goettingen.de/de/688539.html)**. Developments in Modern Mathematics. Göttingen, September 2-5, 2024.
+- **[GROW conference](https://www.mathematics.uni-bonn.de/hcm/events/grow/grow_2023)**. Graduate Research Opportunities for Women. Bonn, March 30-31, 2023.
 
 #### Seminar talks
 
@@ -40,17 +53,6 @@ Georg August University Göttingen, June 23, 2021.
 - Connectedness. Seminar on Counterexamples in Topology. Göttingen, July 6, 2023.
 - Feynman Path Integrals. Seminar on Functional Analysis. Göttingen, May 30, 2023.
 - Representations and Lie Algebras. Seminar on Representation Theory. Göttingen, May 25, 2020.
-
-#### Conferences and workshops
-
-- Short Presentation at **[Higher Differential Geometry Conference](https://www.wiko-greifswald.de/en/registrations/higher-differential-geometry/)**. Higher Differential Geometry Conference. Greifswald, May 4-8, 2026.
-- **[BCGU-W Research Retreat](https://www.mathematik.uni-wuerzburg.de/aktuelles/winter-summerschools/bcgu-w-research-retreat/)**. Higher Structures PhD Retreat. Würzburg, December 5-8, 2025.
-- **[Exploring new arrows in the BCGW-groupoid II](https://people.mpim-bonn.mpg.de/miyamoto/bgw-retreat/2025/)**. Higher Structures PhD Retreat. Burbach, March 7-10, 2025.
-- **[Higher Lower Workshop XVIII](https://www.math.ru.nl/~sagave/higher-structures-XVIII/)**. Higher Geometric Structures along the Lower Rhine XVIII. Nijmegen,
-January 23-24, 2025.
-- **[Exploring new arrows in the BGW-groupoid](https://people.mpim-bonn.mpg.de/miyamoto/bgw-retreat/2024/)**. Higher Structures PhD Retreat. Bielefeld, October 25-28, 2024.
-- **[2nd WiMGo Conference](https://www.uni-goettingen.de/de/688539.html)**. Developments in Modern Mathematics. Göttingen, September 2-5, 2024.
-- **[GROW conference](https://www.mathematics.uni-bonn.de/hcm/events/grow/grow_2023)**. Graduate Research Opportunities for Women. Bonn, March 30-31, 2023.
 
 #### Math-related volunteering and outreach events
 
