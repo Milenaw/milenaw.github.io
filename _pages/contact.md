@@ -21,7 +21,7 @@ annemilena.weiershausen[at]mathematik.uni-goettingen.de
 
 ---
 
-Room L2.110
+Room L1.122
 
 Institute of Numerical and Applied Mathematics
 
