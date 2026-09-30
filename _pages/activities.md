@@ -19,8 +19,11 @@ nav_order: 4
 
 #### Upcoming events
 
-- Tbc: Co-organizer of **[Mathe, Mädels, Möglichkeiten](https://events.gwdg.de/event/1400/)**. Math Workshop for Girls. Göttingen, March 2027.
-- Tbc: Invited talk at the Mathematics and Theoretical Physics Seminar. University of Hertfordshire, November 2026.
+- Tbc: Local co-organizer of [ETEAM 2028](https://eteam-tournament.org). Math Competition for students. Göttingen, Summer 2028.
+- Tbc: Co-organizer of QTCat27 (see [here](https://qtcat.de) for this year's page), Vienna, August 2027.
+- Co-organizer of **[Mathe, Mädels, Möglichkeiten](https://events.gwdg.de/event/1400/)**. Math Workshop for Girls. Göttingen, March 2027.
+- Tbc: Participant at **[Winter School in Mathematical Physics](https://indico.global/event/16526/overview)**. Les Diablerets, January 10-15, 2027.
+- Invited talk at the Mathematics and Theoretical Physics Seminar. University of Hertfordshire, November 11, 2026.
 - Co-organizer (as part of MO-Ni team) of 2026 Mädchenseminar. Math Olympiad training seminar for girls in grade 7 and 8. Göttingen, October 29 - November 1, 2026.
 - Co-organizer of **[C-Star-Algebras: Structure, Dynamics, and Applications](https://events.gwdg.de/event/1392/)**. Autumn School on C-Star-Algebras. Göttingen, October 5-9, 2026.
 
