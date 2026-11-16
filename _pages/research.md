@@ -21,7 +21,7 @@ I am mainly interested in higher structures in differential geometry, in particu
 
 <br>
 
-#### Preprints
+#### Publications and Preprints
 
 <!-- _pages/publications.md -->
 
