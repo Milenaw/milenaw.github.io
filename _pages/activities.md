@@ -22,13 +22,11 @@ nav_order: 4
 - Tbc: Local co-organizer of [ETEAM 2028](https://eteam-tournament.org). Math Competition for students. Göttingen, Summer 2028.
 - Tbc: Co-organizer of QTCat27 (see [here](https://qtcat.de) for this year's page), Vienna, August 2027.
 - Co-organizer of **[Mathe, Mädels, Möglichkeiten](https://events.gwdg.de/event/1400/)**. Math Workshop for Girls. Göttingen, March 2027.
-- Tbc: Participant at **[Winter School in Mathematical Physics](https://indico.global/event/16526/overview)**. Les Diablerets, January 10-15, 2027.
-- Invited talk at the Mathematics and Theoretical Physics Seminar. University of Hertfordshire, November 11, 2026.
-- Co-organizer (as part of MO-Ni team) of 2026 Mädchenseminar. Math Olympiad training seminar for girls in grade 7 and 8. Göttingen, October 29 - November 1, 2026.
-- Co-organizer of **[C-Star-Algebras: Structure, Dynamics, and Applications](https://events.gwdg.de/event/1392/)**. Autumn School on C-Star-Algebras. Göttingen, October 5-9, 2026.
+- Participant at **[Winter School in Mathematical Physics](https://indico.global/event/16526/overview)**. Les Diablerets, January 10-15, 2027.
 
 #### Invited and colloquium talks
 
+- [Prequantization of shifted symplectic structures and transgression](https://hertsmathphys.github.io). Invited talk at the Mathematics and Theoretical Physics Seminar. University of Hertfordshire, November 11, 2026.
 - [Shifted symplectic structures on Lie n-groupoids](https://www.mathematik.uni-wuerzburg.de/fileadmin/10041030/2025/dqg_2025_02_07.pdf). Talk on my master thesis in the context of an Oberseminar on Deformation Quantization and Geometry, invited by Professor Madeleine Jotz. University of Würzburg, February 07, 2025.
 - [Shifted Symplectic Lie n-Groupoids](https://people.mpim-bonn.mpg.de/miyamoto/bgw-retreat/2024/agenda/MA_Talk_BGW.pdf). Talk on my master thesis in the context of a Higher Structures PhD retreat. Bielefeld, October 27, 2024.
 - Embedding Tensors. Talk on my bachelor thesis in the context of an Oberseminar on Higher Structures.
@@ -36,6 +34,7 @@ Georg August University Göttingen, June 23, 2021.
 
 #### Conferences and workshops
 
+- Co-organizer of **[C-Star-Algebras: Structure, Dynamics, and Applications](https://events.gwdg.de/event/1392/)**. Autumn School on C-Star-Algebras. Göttingen, October 5-9, 2026.
 - Poster at **[Poisson 2026](https://wis.kuleuven.be/events/2026_poisson/conference_poisson2026)**. Poisson 2026 Summer School and Conference. Antwerp and Leuven, August 3-14, 2026.
 - Co-organizer of **[Higher Categories for the Working Mathematician](https://events.gwdg.de/event/1365/)**. Summer School on Higher Category Theory. Göttingen, July 27-31, 2026.
 - Short Presentation at **[ENFFT](https://sites.google.com/uniroma1.it/enfft/enfft)**. Elliptic Objects, von Neumann Algebras, and Functorial Field Theory Summer School and Conference. Lausanne, July 6-17, 2026.
@@ -62,6 +61,6 @@ January 23-24, 2025.
 - Co-organizer of the **[Göttingen University Girl's Day](https://www.uni-goettingen.de/de/507545.html)**. Göttingen, April 23, 2026.
 - Co-organizer of **[Mathe, Mädels, Möglichkeiten](https://events.gwdg.de/event/1400/)**. Math Workshop for Girls. Göttingen, April 8-12, 2026.
 - I am volunteering at **[MO-Ni e.V.](https://www.mo-ni.de/organisation/team)** (”Mathe-Olympiade in Niedersachsen”) to help organize the Mathematical Olympiad in Lower Saxony.
-- In 2022 and 2024, I co-organized **["Mädchenseminare"](https://www.mo-ni.de/klasse-5-13/maedchenseminar)** (training seminars specifically for female high-school students) through MO-Ni with funding from the [Litfin Stiftung](https://www.litfin-stiftung.de/foerderung/).
+- In 2022, 2024, and 2026, I co-organized **["Mädchenseminare"](https://www.mo-ni.de/klasse-5-13/maedchenseminar)** (training seminars specifically for female high-school students) through MO-Ni with funding from the [Litfin Stiftung](https://www.litfin-stiftung.de/foerderung/).
 - In 2023 and 2024, I taught courses in **training seminars** preparing the Bremen team for the
 national round of the Mathematical Olympiad.
